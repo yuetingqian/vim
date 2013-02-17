@@ -73,8 +73,8 @@ set rtp+=~/.vim/bundle/vundle/
 call vundle#rc()
 
 Bundle 'gmarik/vundle'
-Bundle 'vim-scripts/matchindent.vim'
 Bundle 'scrooloose/nerdtree'
+Bundle 'othree/xml.vim'
 
 filetype indent on
 filetype plugin indent on
