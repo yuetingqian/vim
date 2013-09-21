@@ -115,3 +115,4 @@ au filetype ruby        set omnifunc=rubycomplete#Complete
 
 let &t_SI = "\<Esc>]12;purple\x7"
 let &t_EI = "\<Esc>]12;blue\x7"
+set t_Co=256
