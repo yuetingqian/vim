@@ -55,6 +55,7 @@ Bundle 'vim-scripts/Conque-Shell'
 "let CoVim_default_name = 'Casa Taloyum'
 "let CoVim_default_port = '8888'
 "Bundle 'terryma/vim-multiple-cursors'
+Bundle 'vim-scripts/python.vim--Vasiliev'
 
 filetype plugin indent on
 
